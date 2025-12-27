@@ -29,7 +29,9 @@ Inspirar a principiantes con recursos accesibles para construir simulaciones de 
 **🎉 ¡Crece Hoy!**  
 ¡Desata tu potencial con **RobloxGrowGarden**!  
 
-[![Descubre Ahora](https://img.shields.io/badge/Descubre-AHORA-9C27B0)](https://github.com/GreenGrowHub/RobloxGrowGarden)  
+[![Descubre Ahora](https://img.shields.io/badge/Descubre-AHORA-9C27B0)](https://github.com/GreenGrowHub/.github)  
+-
+[![Descubre Ahora](https://img.shields.io/badge/Descubre-AHORA-9C27B0)](https://github.com/GreenGrowHub/GreenGrowHub)  
 
 ---
 
