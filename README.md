@@ -1,5 +1,9 @@
 # 🌱 GreenGrowHub 🌟  
 
+![Primera Vista](https://i.ytimg.com/vi/HvArylN11u4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB25HvvUrkBwjurUGjNgKhmzgUzvA)
+
+
+
 ![Visitantes: 10K+](https://img.shields.io/badge/Visitantes-10K+-4CAF50) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-2196F3)  
 
 
