@@ -1,4 +1,6 @@
 # 🌱 GreenGrowHub 🌟  
+![Primera Vista](https://focus.courrierinternational.com/2025/06/25/0/0/1630/916/2560/0/60/0/3cba8bc_upload-1-eo6uossjg04q-grow-a-garden-on-roblox-cosmetics-update-copie.jpg)  
+
 
 ![Visitantes: 10K+](https://img.shields.io/badge/Visitantes-10K+-4CAF50) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-2196F3)  
 
